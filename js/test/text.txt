@@ -35,7 +35,7 @@ git commit -m "Коммнетарий" - создать commit
 git branch -M - меняет имя главной ветки на main
 git remote add origin https://github.com/DimonKZ/ballons.git - поключение к репозиторию
 git remote -v - проверка подключения к гит
-git push origin main - отправка 
+git push origin main - отправка
 
 
 
